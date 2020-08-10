@@ -58,7 +58,6 @@ const foodCard = (e) => {
 
 //check the food if they are spicy or vegetarian
 const tasteOfFood = id => {
-    // const taste = e.currentTarget.item.value;
     if (spicyFood.checked === true) {
        const spicyTaste = foods.filter(spicy => spicy === true);
           spicyTaste.map(spicy => ` 

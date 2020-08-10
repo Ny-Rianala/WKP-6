@@ -90,3 +90,17 @@ But this is just one way to think about that. Feel free to try any other logic y
 -   Don't forget to clean your code, and update your readme before Monday morning.
 
 Good luck!
+
+### Report
+1. In a few sentences, explain the structure of your project.  
+ Firstly, I created varibles for the list. Then, I wrote a new function to generate the lists from the array. In this function, I added the HTML to generate the list. Secondly, I started to create a function to check the checkbox, inside of this function, I put a condition to check if the food is "true". Finally, I added event listener to listen for changes.
+ 1. If you had more time, what area of your work would you improve?  
+ If I had more time, I would continue to make the checkbox worked and also the next step.
+ 1. Did you learn anything new while working on this project?  
+ Actually, what I learn from this project was using map to get the lists and then we have to call the function after that because at first I didn't call it, it didn't work and I spent most of my time searching for the bugs. 
+ 1. What was the most challenging part for you?  
+ The most challlenging part for me is still in the checkbox. I mean to relate everything in it. For instance, when the checkbox is checked, our lists should get things.
+ 1. Would you like a new explanation about a specific topic?   
+I think, I need more explanation about how can we relate the checkbox and the lists.
+ 1. Any comments?
+ 
